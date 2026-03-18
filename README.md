@@ -1,10 +1,16 @@
-# LEE MINWOOK
+# All About Me
 
-### Backend Enginner
+## 프로젝트 소개
 
-- **생년월일 : 2000.04.25**
-- **MBTI : ENTP**
-- [github](https://github.com/minuk07)
-- _IT's your Life 7th_
+나를 소개하는 기능 단위 문서를 모아둔 저장소
 
-* 숭실대학교 졸업
+## 한 줄 소개
+
+backend developer
+
+## 문서 목록
+
+- profile
+- tech-stack
+- workstyle
+- favorites
