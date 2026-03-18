@@ -7,6 +7,7 @@
 ## 한 줄 소개
 
 backend developer
+server developer
 
 ## 문서 목록
 
